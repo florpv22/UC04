@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">DAM_UC4_Pizango</string>
     <string name="Button_primero">Ingresar</string>
+    <string name="title_activity_notas">NotasActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Name" />
+    <string name="Password">contraseña</string>
+    <string name="nombre">Nombre</string>
+    <string name="btnLogin">Entrar</string>
+    <string name="texto">nombre</string>
 </resources>
